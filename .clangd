@@ -1,0 +1,3 @@
+CompileFlags: # Tweak the parse settings
+  Add: [-I, "C:/dev/Kernel7CrackOS3/include", -std=c++17, -fno-asynchronous-unwind-tables, -Wno-multichar, -Wno-literal-suffix, -fno-exceptions, -fno-rtti, -fno-common, -mno-red-zone, -mgeneral-regs-only, -ffreestanding]
+  Compiler: gcc

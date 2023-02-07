@@ -1,0 +1,7 @@
+
+build
+.vscode
+.idea
+dist
+targets/iso/boot/kernel.bin
+image_file
